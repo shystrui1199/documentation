@@ -1053,7 +1053,7 @@ Note that the Test Token is a mintable ERC20. The open `mint` function has the s
     </tr>
     <tr>
       <td>
-        <a href="https://goerli.explorer.zksync.io/address/0x7C1412e456ad60B8ee458c4eb3A9852C3e389353">
+        <a href="https://sepolia.explorer.zksync.io">
           TEST
         </a>
       </td>
